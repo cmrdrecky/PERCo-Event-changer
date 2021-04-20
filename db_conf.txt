@@ -1,0 +1,5 @@
+[db-config]
+ip = 192.168.*.*
+db_path = d:/PercoBD/SCD17k.fdb
+db_user = sysdba
+db_password = masterkey
